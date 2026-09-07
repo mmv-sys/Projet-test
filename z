@@ -1,0 +1,8 @@
+ansimake@f0r8s6:~$ mkdir ex0
+ansimake@f0r8s6:~$ cd
+ansimake@f0r8s6:~$ cd ex0
+ansimake@f0r8s6:~/ex0$ echo "Z" > a
+ansimake@f0r8s6:~/ex0$ ls
+a
+ansimake@f0r8s6:~/ex0$ cat a
+Z
